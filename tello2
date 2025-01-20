@@ -1,0 +1,8 @@
+# 이륙
+tello.takeoff()
+# 전진 30cm 
+tello.move_forward(30)
+# 좌회전 90도
+tello.rotate_counter_clockwise(90)
+# 착륙
+tello.land()
